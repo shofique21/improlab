@@ -22,4 +22,3 @@ Mobile No:01911060225
 password:12345678
 Or you may create account
 After login create customer
-
