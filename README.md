@@ -1,24 +1,24 @@
-git clone https://github.com/shofique21/improlab.git
-composer install
-composer require doctrine/dbal
-npm install
-npm run dev
-create .env file
-create database
-confugure .env file
-php artisan migrate
-php artisan db:seed
-php artisan serve
-if any problem to migration please cache clear
+git clone https://github.com/shofique21/improlab.git<br />
+composer install<br />
+composer require doctrine/dbal<br />
+npm install<br />
+npm run dev<br />
+create .env file<br />
+create database<br />
+confugure .env file<br />
+php artisan migrate<br />
+php artisan db:seed<br />
+php artisan serve<br />
+if any problem to migration please cache clear<br />
     "
-    php artisan cache:clear
-    php artisan view:clear
-    php artisan route:clear
-    php artisan clear-compiled
-    php artisan config:cache
+    php artisan cache:clear<br />
+    php artisan view:clear<br />
+    php artisan route:clear<br />
+    php artisan clear-compiled<br />
+    php artisan config:cache<br />
     "
-Login info:
-Mobile No:01911060225
-password:12345678
-Or you may create account
-After login create customer
+Login info:<br />
+Mobile No:01911060225<br />
+password:12345678<br />
+Or you may create account<br />
+After login create customer<br />
